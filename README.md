@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiki-1
 - 👀 I’m interested in become a back-end developer
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
