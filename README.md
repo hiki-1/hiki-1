@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hiki-1
 - 👀 I’m interested in become a back-end developer
-- 🌱 I’m currently learning Rust and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C, java e Rust
 
 <!---
 hiki-1/hiki-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
