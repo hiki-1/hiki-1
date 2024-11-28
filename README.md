@@ -4,7 +4,7 @@
 
 ## Sobre mim
 - ⚛️ Acadêmico em Ciência da Computação
-- 🔭 Fui em projeto de desenvolvimento de um Sistema de Controle de Comissões para a Universidade Federal do Oeste do Pará (Ufopa)
+- 🔭 Fui bolsista em projeto de desenvolvimento de um Sistema de Controle de Comissões para a Universidade Federal do Oeste do Pará (Ufopa)
 - 📫 henriquemota0110@gmail.com
 - ⚡ Foco em desenvolvimento back-end
 - 🧰 Atualmente trabalhando como Auditor de TI em empresa de telecomunicações
